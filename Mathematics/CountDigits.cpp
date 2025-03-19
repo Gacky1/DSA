@@ -26,6 +26,6 @@ int main(void)
 	int long long n;
     cout<<"Enter the number"<<endl;
     cin>>n;
-	cout << "Number of digits : " << countDigit(n);
+	cout << "Number of digits : " << countDigit(n)<<endl;
 	return 0;
 }
