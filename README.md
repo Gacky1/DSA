@@ -1,6 +1,3 @@
-Here’s your improved **README.md** with proper **Markdown formatting**:
-
-```md
 # 🚀 DSA C++ Practice Repository
 
 Welcome to my **DSA C++ Practice Repository**! This repository contains my solutions and practice implementations of **Data Structures and Algorithms (DSA)** in **C++**. The purpose of this repo is to document my learning journey and help others who are also preparing for **coding interviews, competitive programming,** or improving their **problem-solving skills**.
